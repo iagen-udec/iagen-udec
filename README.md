@@ -40,6 +40,7 @@ We proactively address challenges to maximize GAI's potential:
   - Policy Adaptation: Updating university policies for evolving AI technologies.
 
 Conclusion
+
 The IAGen@UdeC initiative is pioneering the responsible integration of Generative AI into higher education. By empowering our community with GAI tools and knowledge, UdeC positions itself as a leader in digital transformation, enhancing creativity, critical thinking, and innovation while upholding ethical standards.
 
 Want to Learn More or Collaborate?
