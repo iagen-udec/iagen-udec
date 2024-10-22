@@ -2,14 +2,17 @@
 Leading the Integration of Generative AI in Higher Education
 
 Overview
+
 IAGen@UdeC is an ambitious initiative by the University of Concepción (UdeC), Chile, dedicated to integrating Generative Artificial Intelligence (GAI) into academia. Our mission is to prepare students, faculty, and staff to navigate and leverage this transformative technology, enhancing learning, teaching, research, and university management through ethical and responsible AI practices.
 
 Why Generative AI?
+
 Generative AI represents the cutting edge of artificial intelligence, capable of creating original content—such as text, images, and music—from existing data. Tools like ChatGPT and DALL·E showcase how AI can augment human creativity and drive innovation across various sectors.
 
 At UdeC, we aim to harness the potential of GAI to achieve academic excellence and administrative efficiency, ensuring our university community is well-equipped for the evolving digital landscape.
 
 Key Components of IAGen@UdeC
+
 1. Transforming Education Through GAI
   - Personalized Learning Experiences: Adapting to students' unique learning styles and paces.
   - Encouraging Creativity and Problem-Solving: Engaging students in critical evaluation and interaction with AI-generated content.
@@ -29,11 +32,13 @@ Key Components of IAGen@UdeC
   - Collaborative Research Groups: Enhancing educational practices and fostering innovation.
 
 Global Significance
+
 The IAGen@UdeC initiative aligns with global efforts to responsibly incorporate AI into education. As the digital age reshapes learning and work, we strive to:
   - Lead by Example: Demonstrating ethical GAI integration in higher education.
   - Foster International Collaboration: Partnering worldwide to advance GAI research and applications.
 
 Challenges and Future Directions
+
 We proactively address challenges to maximize GAI's potential:
   - Ethical Dilemmas: Ensuring data privacy and reducing AI model biases.
   - Faculty Readiness: Investing in training for confident GAI integration.
